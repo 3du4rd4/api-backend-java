@@ -1,2 +1,2 @@
 # api-backend-java
-Desenvolvimento de tescnica
+Desenvolvimento de tecnicas
